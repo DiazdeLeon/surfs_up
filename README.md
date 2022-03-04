@@ -5,10 +5,12 @@ W. Avy has requested to have specific information about the temperature for June
 # 2.	Key differences in weather between June and December.
 
 2.1 It is observed 1700 records for June data and 1517 records for December, which means a difference of 183 records. 
+
  
  ![image](https://user-images.githubusercontent.com/95872614/156700842-1eaec9bd-5556-4b62-8ec2-3e7031e4491b.png)
 
-2.2The average temperature in June is 74.94 Fahrenheit (F)degrees which in Celsius (C) is 23.8 degrees. In December the average is 71.04, which in Celsius is 21.7 degrees. The discrepancy among these two months is 2.1 degrees. 
+
+2.2 The average temperature in June is 74.94 Fahrenheit (F)degrees which in Celsius (C) is 23.8 degrees. In December the average is 71.04, which in Celsius is 21.7 degrees. The discrepancy among these two months is 2.1 degrees. 
 
 2.3 The maximum temperature for June and December may be around 85 F and 83 F, this discrepancy is aligned with the one described before among the averages, which means the data moves around the mean and is a pleasant temperature for June taking this month as the beginning of the summer and December taking this month as the beginning of the winter. 
 
