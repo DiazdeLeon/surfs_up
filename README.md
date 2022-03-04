@@ -2,7 +2,7 @@
 
 W. Avy has requested to have specific information about the temperature for June and December in Oahu, to determine if the surf and ice cream shop business is sustainable year-round. It would be necessary to retrieve the basic statistics such as mean, standard deviations, minimum, maximum and quartiles.
 
-# 2.	There is a bulleted list that addresses the three key differences in weather between June and December.
+# 2.	Key differences in weather between June and December.
 
 -	It is observed 1700 records for June data and 1517 records for December, which means a difference of 183 records. 
  
